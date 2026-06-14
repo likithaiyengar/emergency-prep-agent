@@ -92,9 +92,9 @@ Safety and Disaster Readiness
 
 \## Author
 
-\[Likitha K R]
+\Likitha K R
 
-\[4MH23CA023]
+\4MH23CA023
 
-\[MAHARAJA INSTITUTE OF TECHNOLOGY MYSURU]
+\MAHARAJA INSTITUTE OF TECHNOLOGY MYSURU
 
